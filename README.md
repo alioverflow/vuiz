@@ -15,8 +15,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 1. Clone the repo.
 
 ```sh
-git clone link
+git clone https://github.com/alioverflow/vuiz.git
 ```
 
 2. `yarn` to install npm packages.
-3. Start dev server using `yarn dev`.# vuiz
+3. Start dev server using `yarn dev`.
